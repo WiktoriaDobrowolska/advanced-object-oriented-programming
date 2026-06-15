@@ -1,0 +1,1 @@
+Ala ma kota. Kot ma Alę. I as, i on, i my, i wy. Małe słowa jak: i, as, on, ma, wy - powinny zostać usunięte przez filtr długości. Kot i KOT oraz koT to powinno być to samo słowo w statystyce.
